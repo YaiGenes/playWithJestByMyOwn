@@ -1,0 +1,21 @@
+{
+    "name": "playwithjestbymyown",
+    "version": "1.0.0",
+    "description": "This is an academical project to practice nmp, node.js and testing",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "author": "YaiGenes",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1"
+    },
+    "devDependencies": {
+        "jest": "^27.1.0"
+    }
+}
