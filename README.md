@@ -50,7 +50,7 @@ Any contributions you make are greatly appreciated.!
 ## 🚀 About Me
 I am newbie in Software Development, expert in Biological Sciences and Agriculture who wants to contribute boosting the food production to a next level using IT.
 
-[MSc. Yaiser Avila Rodríguez](https://github.com/YaiGenes)
+[MSc. Yaiser Avila Rodríguez](www.linkedin.com/in/yaiserbreeding)
 
 -[This project from scratch](https://github.com/YaiGenes/playWithJestByMyOwn.git)
   
