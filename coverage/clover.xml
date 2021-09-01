@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1630513525029" clover="3.2.0">
+  <project timestamp="1630513525030" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="17" coveredelements="17" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
+    <file name="date.js" path="C:\Users\yaise\Documents\WebDev_Master\Course\Month3\npm\playWithJestByMyOwn\src\date.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="util.js" path="C:\Users\yaise\Documents\WebDev_Master\Course\Month3\npm\playWithJestByMyOwn\src\util.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
